@@ -1,3 +1,3 @@
-interface Draw {
+interface Shape {
     public void draw ();
 }
